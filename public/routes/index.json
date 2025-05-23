@@ -84,6 +84,60 @@
     "url": "/routes/suzuki/Log20250504-084547.gpx"
   },
   {
+    "file": "suzuki/Log20250505-163942.gpx",
+    "person": "suzuki",
+    "mmdd": "0505",
+    "url": "/routes/suzuki/Log20250505-163942.gpx"
+  },
+  {
+    "file": "suzuki/Log20250505-201602.gpx",
+    "person": "suzuki",
+    "mmdd": "0505",
+    "url": "/routes/suzuki/Log20250505-201602.gpx"
+  },
+  {
+    "file": "suzuki/Log20250507-144628.gpx",
+    "person": "suzuki",
+    "mmdd": "0507",
+    "url": "/routes/suzuki/Log20250507-144628.gpx"
+  },
+  {
+    "file": "suzuki/Log20250508-093742.gpx",
+    "person": "suzuki",
+    "mmdd": "0508",
+    "url": "/routes/suzuki/Log20250508-093742.gpx"
+  },
+  {
+    "file": "suzuki/Log20250508-155625.gpx",
+    "person": "suzuki",
+    "mmdd": "0508",
+    "url": "/routes/suzuki/Log20250508-155625.gpx"
+  },
+  {
+    "file": "suzuki/Log20250509-121248.gpx",
+    "person": "suzuki",
+    "mmdd": "0509",
+    "url": "/routes/suzuki/Log20250509-121248.gpx"
+  },
+  {
+    "file": "suzuki/Log20250510-112340.gpx",
+    "person": "suzuki",
+    "mmdd": "0510",
+    "url": "/routes/suzuki/Log20250510-112340.gpx"
+  },
+  {
+    "file": "suzuki/Log20250511-145142.gpx",
+    "person": "suzuki",
+    "mmdd": "0511",
+    "url": "/routes/suzuki/Log20250511-145142.gpx"
+  },
+  {
+    "file": "suzuki/Log20250512-102559.gpx",
+    "person": "suzuki",
+    "mmdd": "0512",
+    "url": "/routes/suzuki/Log20250512-102559.gpx"
+  },
+  {
     "file": "kato/Log20250422-113911.gpx",
     "person": "kato",
     "mmdd": "0422",
@@ -130,6 +184,42 @@
     "person": "kato",
     "mmdd": "0429",
     "url": "/routes/kato/Log20250429-191832.gpx"
+  },
+  {
+    "file": "kato/Log20250501-122843.gpx",
+    "person": "kato",
+    "mmdd": "0501",
+    "url": "/routes/kato/Log20250501-122843.gpx"
+  },
+  {
+    "file": "kato/Log20250502-125024.gpx",
+    "person": "kato",
+    "mmdd": "0502",
+    "url": "/routes/kato/Log20250502-125024.gpx"
+  },
+  {
+    "file": "kato/Log20250507-195143.gpx",
+    "person": "kato",
+    "mmdd": "0507",
+    "url": "/routes/kato/Log20250507-195143.gpx"
+  },
+  {
+    "file": "kato/Log20250508-093522.gpx",
+    "person": "kato",
+    "mmdd": "0508",
+    "url": "/routes/kato/Log20250508-093522.gpx"
+  },
+  {
+    "file": "kato/Log20250510-161547.gpx",
+    "person": "kato",
+    "mmdd": "0510",
+    "url": "/routes/kato/Log20250510-161547.gpx"
+  },
+  {
+    "file": "kato/Log20250512-092305.gpx",
+    "person": "kato",
+    "mmdd": "0512",
+    "url": "/routes/kato/Log20250512-092305.gpx"
   },
   {
     "file": "shen/Log20250422-113603.gpx",
@@ -252,6 +342,78 @@
     "url": "/routes/takase/Log20250429-171633.gpx"
   },
   {
+    "file": "takase/Log20250430-124445.gpx",
+    "person": "takase",
+    "mmdd": "0430",
+    "url": "/routes/takase/Log20250430-124445.gpx"
+  },
+  {
+    "file": "takase/Log20250501-172640.gpx",
+    "person": "takase",
+    "mmdd": "0501",
+    "url": "/routes/takase/Log20250501-172640.gpx"
+  },
+  {
+    "file": "takase/Log20250503-120332.gpx",
+    "person": "takase",
+    "mmdd": "0503",
+    "url": "/routes/takase/Log20250503-120332.gpx"
+  },
+  {
+    "file": "takase/Log20250504-184717.gpx",
+    "person": "takase",
+    "mmdd": "0504",
+    "url": "/routes/takase/Log20250504-184717.gpx"
+  },
+  {
+    "file": "takase/Log20250505-100448.gpx",
+    "person": "takase",
+    "mmdd": "0505",
+    "url": "/routes/takase/Log20250505-100448.gpx"
+  },
+  {
+    "file": "takase/Log20250506-083437.gpx",
+    "person": "takase",
+    "mmdd": "0506",
+    "url": "/routes/takase/Log20250506-083437.gpx"
+  },
+  {
+    "file": "takase/Log20250507-103316.gpx",
+    "person": "takase",
+    "mmdd": "0507",
+    "url": "/routes/takase/Log20250507-103316.gpx"
+  },
+  {
+    "file": "takase/Log20250508-112504.gpx",
+    "person": "takase",
+    "mmdd": "0508",
+    "url": "/routes/takase/Log20250508-112504.gpx"
+  },
+  {
+    "file": "takase/Log20250509-121023.gpx",
+    "person": "takase",
+    "mmdd": "0509",
+    "url": "/routes/takase/Log20250509-121023.gpx"
+  },
+  {
+    "file": "takase/Log20250510-100554.gpx",
+    "person": "takase",
+    "mmdd": "0510",
+    "url": "/routes/takase/Log20250510-100554.gpx"
+  },
+  {
+    "file": "takase/Log20250511-100337.gpx",
+    "person": "takase",
+    "mmdd": "0511",
+    "url": "/routes/takase/Log20250511-100337.gpx"
+  },
+  {
+    "file": "takase/Log20250512-113058.gpx",
+    "person": "takase",
+    "mmdd": "0512",
+    "url": "/routes/takase/Log20250512-113058.gpx"
+  },
+  {
     "file": "shiotani/Log20250422-150720.gpx",
     "person": "shiotani",
     "mmdd": "0422",
@@ -268,5 +430,41 @@
     "person": "shiotani",
     "mmdd": "0428",
     "url": "/routes/shiotani/Log20250428-132907.gpx"
+  },
+  {
+    "file": "shiotani/Log20250430-122417.gpx",
+    "person": "shiotani",
+    "mmdd": "0430",
+    "url": "/routes/shiotani/Log20250430-122417.gpx"
+  },
+  {
+    "file": "shiotani/Log20250501-152300.gpx",
+    "person": "shiotani",
+    "mmdd": "0501",
+    "url": "/routes/shiotani/Log20250501-152300.gpx"
+  },
+  {
+    "file": "shiotani/Log20250503-111322.gpx",
+    "person": "shiotani",
+    "mmdd": "0503",
+    "url": "/routes/shiotani/Log20250503-111322.gpx"
+  },
+  {
+    "file": "shiotani/Log20250504-083325.gpx",
+    "person": "shiotani",
+    "mmdd": "0504",
+    "url": "/routes/shiotani/Log20250504-083325.gpx"
+  },
+  {
+    "file": "shiotani/Log20250506-132823.gpx",
+    "person": "shiotani",
+    "mmdd": "0506",
+    "url": "/routes/shiotani/Log20250506-132823.gpx"
+  },
+  {
+    "file": "shiotani/Log20250511-160141.gpx",
+    "person": "shiotani",
+    "mmdd": "0511",
+    "url": "/routes/shiotani/Log20250511-160141.gpx"
   }
 ]

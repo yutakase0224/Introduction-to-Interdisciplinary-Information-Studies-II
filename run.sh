@@ -13,7 +13,8 @@ while IFS= read -r -d '' f; do
 done
 
 # ② kato の明示的な HEIC
-for f in public/photos/kato/{02,03}.HEIC; do
+# for f in public/photos/kato/{02,03,04,05}.HEIC; do
+for f in public/photos/suzuki/{13,14,15,16,17,18,19,20}.HEIC; do
   [[ -f "$f" ]] || continue
   echo "[CONVERT] $f → ${f%.*}.jpg"
   magick "$f" -auto-orient -strip -quality 92 -colorspace sRGB "${f%.*}.jpg"
